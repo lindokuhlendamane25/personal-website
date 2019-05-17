@@ -1,0 +1,122 @@
+body{
+    margin:0px;
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+}
+.colour-block{
+    background:cadetblue;
+    width:70%;
+    padding:7% 20% 10% 20%;
+   
+}
+.white-block{
+    background: #fff;
+    width: 100%;
+/*    padding:7% 20% 10% 20%;*/
+  
+}
+    #nav{
+        width: 60%;
+        display: inline-block;
+        text-align: right;
+        float: right;
+        font-size: 20px;
+    }
+    
+    #nav ul li{
+        display:inline-block;
+        height: 62px;
+    }
+    #nav ul li a{
+        padding: 20px;
+        background: cadetblue;
+        color: white;
+    }
+    #nav ul li a:hover{
+        box-shadow: 0px 1px 1px #666;
+   }
+
+h1,h2,h3
+{
+    font-family: 'Kodchasan', sans-serif;
+}
+
+h1{
+    text-align: centre;
+    font-size: 100px;
+/*    font-family: 'wire one',serif;*/
+    font-weight: bolder;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+/*    font-family: 'wire one',serif;*/
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+    font-weight: normal;
+/*    font-family: 'wire one',serif;*/
+}
+
+p{  text-align: center;
+    font-size: 20px;
+/*    font-family: 'Raleway',serif;*/
+}
+button a{
+color: bisque;
+margin-right: 50px auto;
+    
+
+}
+.img
+{
+    padding-left: 25%;
+    width: 50%;
+    height: 70%;
+    padding-bottom: 2em;
+    margin-right: 70px;
+    
+    
+}
+
+#aboutMe
+{
+    background: cadetblue;
+    padding:5%;
+}
+
+#skills
+{
+    background: cadetblue;
+    padding:5%;
+}
+li{
+    list-style: none;
+}
+#contact
+{
+    background: cadetblue;
+    padding:5%;
+}
+#portfolio{
+    background: cadetblue;
+    padding: 5%;
+}
+/*
+.skew-cc{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left:0px;
+    background: linear-gradient(to right bottom, cadetblue 49%, #fff 50%), linear-gradient(-50deg, #ffffff 16px, #000 0);
+}
+.skew-c{
+    width: 100%;
+    height: :100px;
+    position: absolute;
+    left: 0px;
+    background:  linear-gradient(to left bottom, cadetblue 49%,#fff 50%), linear-gradient(-50deg, #ffffff 16px, #000 0);
+}*/
